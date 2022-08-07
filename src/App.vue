@@ -2,10 +2,10 @@
   <v-app>
     <v-app-bar app color="white">
       <v-img
-        alt="Capte Logo"
-        class="shrink mr-2"
-        src="https://capte.co/wp-content/uploads/2021/10/Capte-SVG-No-statement-.svg"
-        width="100"
+        alt="Logo"
+        class="shrink mr-2 mb-2"
+        src="@/assets/app-bar-logo.png"
+        width="80"
       />
       <v-spacer />
       <v-toolbar-title>Amsterdam</v-toolbar-title>

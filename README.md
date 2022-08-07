@@ -1,5 +1,6 @@
 # Amsterdam PM 2.5 on Maps 
-Uses google maps api for maps and https://aqicn.org/json-api/doc/ for getting pm 2.5 values.
+Displays Amsterdam's air quality on a map with auto refreshing option.
+Uses google maps api for maps and https://aqicn.org/json-api/doc/ for getting air quality values.
 
 ## Project setup
 ```
